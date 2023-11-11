@@ -1,1 +1,1 @@
-This is my simple_shell project
+This is our simple_shell project
